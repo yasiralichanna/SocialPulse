@@ -1,0 +1,12 @@
+# IDE and editor folders
+.vscode/
+.idea/
+.gemini/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Database files (if any are created locally)
+*.sqlite
+*.db
